@@ -520,17 +520,4 @@ following: **persona ID**, **emotion** or **topic** label, update the index file
 [5]: http://mi.eng.cam.ac.uk/~sjy/papers/scgy05.pdf
 [6]: https://arxiv.org/pdf/1606.08340v2.pdf
 
-## Credits & Support
-**CakeChat** is developed and maintained by the [Replika team](https://replika.ai):
 
-[Nicolas Ivanov](https://github.com/nicolas-ivanov), [Michael Khalman](https://github.com/mihaha),
-[Nikita Smetanin](https://github.com/nikitos9000), [Artem Rodichev](https://github.com/rodart) and
-[Denis Fedorenko](https://github.com/sadreamer).
-
-Demo by [Oleg Akbarov](https://github.com/olegakbarov), [Alexander Kuznetsov](https://github.com/alexkuz) and
-[Vladimir Chernosvitov](http://chernosvitov.com/).
-
-All issues and feature requests can be tracked here – [GitHub Issues](https://github.com/lukalabs/cakechat/issues).
-
-## License
-© 2019 Luka, Inc. Licensed under the Apache License, Version 2.0. See LICENSE file for more details.
