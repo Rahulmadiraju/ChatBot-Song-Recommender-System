@@ -1,6 +1,3 @@
-**Note on the top: the project is unmaintained.**
-
-Transformer-based dialog models work better and we recommend using them instead of RNN-based CakeChat. See, for example https://github.com/microsoft/DialoGPT
 
 ---
 
